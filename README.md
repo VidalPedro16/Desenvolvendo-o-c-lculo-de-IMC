@@ -1,2 +1,2 @@
-# Desenvolvendo-o-c-lculo-de-IMC
+# Desenvolvendo o cálculo de IMC
 Criar uma calculadora de IMC. 
